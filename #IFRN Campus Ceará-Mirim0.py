@@ -189,7 +189,7 @@ def main():
         elif x == "3":
             quiz_autoria_web()
         elif x == "4":
-            print("Sair do site")
+            print("Sair do programa")
             break
         else:
             print("Inválido")
